@@ -3,7 +3,7 @@
 
 <!-- Heading with inline CSS -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Futurra&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&color=000000&lines=Hi+There!+I'm+Maryam;Welcome+to+my+GitHub." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&color=000000&lines=Hi+There!+I'm+Maryam;Welcome+to+my+GitHub." />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
