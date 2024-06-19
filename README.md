@@ -13,7 +13,7 @@
 🤖 Currently honing my skills in Python for AI algorithms, TensorFlow for deep learning models, and ROS for robotics applications. <br/>
 💻 Experienced in full-stack development with proficiency in HTML/CSS, JavaScript, and Node.js for creating responsive web applications and APIs. <br/>
 📚 Actively learning advanced topics in computer vision and reinforcement learning to enhance AI capabilities in autonomous systems. <br/>
-# 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/> 
+🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/> 
 🌟 Let's connect and collaborate on cutting-edge AI and robotics projects! Explore my GitHub repositories & expertise below.
 
 [![My Skills](https://skillicons.dev/icons?i=python,r,c/c++,c#,sql,java,javaScript,html,css,kotlin,swift&theme=light)](https://skillicons.dev)
