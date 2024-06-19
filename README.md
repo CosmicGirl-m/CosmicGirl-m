@@ -1,6 +1,6 @@
 <!-- Header with Swapping and Typing Text -->
 <!-- Visitor badge with inline CSS -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CosmicGirl-m.CosmicGirl-m" >
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CosmicGirl-m&label=Profile%20views&color=0e75b6&style=flat" alt="CosmicGirl-m" /> </p>
 
 <!-- Heading with inline CSS -->
 <h1 align="center">
