@@ -10,9 +10,7 @@
 <!-- Small Bio --> 
 **👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across Software & Hardware.** <br/>
 
----
-<img align="right" alt="Coding" width="400" src="![Ripple-Sphere-unscreen](https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/5bc91072-b9ea-4901-be09-4c2adbc1470b)>
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
