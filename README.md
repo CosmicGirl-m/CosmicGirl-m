@@ -16,7 +16,7 @@
 # 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/> 
 🌟 Let's connect and collaborate on cutting-edge AI and robotics projects! Explore my GitHub repositories & expertise below.
 
-[![My Skills](https://skillicons.dev/icons?i= Python, R, C/C++, C#, SQL, Java, JavaScript, HTML, CSS, Swift &theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i= Python,R,C/C++,C#,SQL,Java,JavaScript,HTML,CSS,Kotlin,Swift &theme=light)](https://skillicons.dev)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
