@@ -10,22 +10,26 @@
 <!-- Small Bio --> 
 **👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across Software & Hardware.** <br/>
 
-## Take a look at my expertise:
-<br/>
-
 <div style="overflow: hidden; clear: both;">
-  <img src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/452bb491-cd0f-4bdd-8f80-3d4ceee36aea" alt="download" style="float: right; margin-right: 40px; width: 150px; background: none;">
-  <p style="text-align: left;">🧠 **Machine Learning and AI:** Python, R, C++, TensorFlow, PyTorch, Keras for Deep Learning; Natural Language Processing, Computer Vision.  
-📊 **Data Science and Analytics:** Hadoop, Spark for Big Data; R for statistical analysis; Tableau for data visualization.  
-☁️ **Cloud Computing:** AWS, Google Cloud, Azure for scalable architectures; CI/CD pipelines, Docker, Kubernetes for DevOps.  
-💻 **Full-Stack Development:** HTML/CSS, JavaScript, Node.js for responsive web applications and APIs.  
-🎨 **Additional Skills:** Blender (3D Modelling & Animation Rendering), ROS (Robot Operating System), C# (Unity, game development).  
-🌟 **Interests:** Humanoid Technology, Building and Programming Robots, User Interfaces, Reading Philosophical & Psychological books.  
-
-🔍 **Career Objective:** Seeking roles in AI research or software development to contribute to innovative projects in AI and robotics.
-.</p>
+  <div style="float: left; width: 70%;">
+    🧠 **Machine Learning and AI:** Python, R, C++, TensorFlow, PyTorch, Keras for Deep Learning; Natural Language Processing, Computer Vision.  
+    <br/>
+    📊 **Data Science and Analytics:** Hadoop, Spark for Big Data; R for statistical analysis; Tableau for data visualization.  
+    <br/>
+    ☁️ **Cloud Computing:** AWS, Google Cloud, Azure for scalable architectures; CI/CD pipelines, Docker, Kubernetes for DevOps.  
+    <br/>
+    💻 **Full-Stack Development:** HTML/CSS, JavaScript, Node.js for responsive web applications and APIs.  
+    <br/>
+    🎨 **Additional Skills:** Blender (3D Modelling & Animation Rendering), ROS (Robot Operating System), C# (Unity, game development).  
+    <br/>
+    🌟 **Interests:** Humanoid Technology, Building and Programming Robots, User Interfaces, Reading Philosophical & Psychological books.  
+    <br/>
+    🔍 **Career Objective:** Seeking roles in AI research or software development to contribute to innovative projects in AI and robotics.
+  </div>
+  <div style="float: right; width: 30%;">
+    <img src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/452bb491-cd0f-4bdd-8f80-3d4ceee36aea" alt="download" style="width: 100%; border-radius: 8px;">
+  </div>
 </div>
-
 
 
  </div>
