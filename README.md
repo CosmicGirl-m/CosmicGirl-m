@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CosmicGirl-m.CosmicGirl-m" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+I'm+Maryam+Sindhu;Welcome+to+my+GitHub+Profile." />
+<h1 align="center" style="color: #4CAF50>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Hi+There!+I'm+Maryam;Welcome+to+my+GitHub" />
 </h1>
 
 <h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
