@@ -9,8 +9,6 @@
 
 <br/>
 
-<div align="left">
-
 ## 👋 Greetings! I'm Maryam, an aspiring Software & AI Engineer currently pursuing an Honours BCS at the University of Ottawa, specializing in Artificial Intelligence & Machine Learning.
 <br/>
 
