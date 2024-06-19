@@ -1,6 +1,6 @@
 <!-- Header with Swapping and Typing Text -->
 <!-- Visitor badge with inline CSS -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CosmicGirl-m&label=Profile%20views&color=0e75b6&style=flat" alt="CosmicGirl-m" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=CosmicGirl-m&label=Profile%20views&color=0e75b6&style=flat" alt="CosmicGirl-m" /> </p>
 
 <!-- Heading with inline CSS -->
 <h1 align="center">
