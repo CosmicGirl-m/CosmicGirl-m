@@ -20,6 +20,12 @@
 
 🔍 Career Objective: Seeking roles in AI research or software development to contribute to innovative projects in AI and robotics
 
+<br/> 
+<img src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/452bb491-cd0f-4bdd-8f80-3d4ceee36aea" alt="download" style="float: right;">
+
+
+
+
  </div>
  
 <div align="center"> 
