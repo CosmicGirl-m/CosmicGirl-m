@@ -10,7 +10,13 @@
 <!-- Small Bio --> 
 **👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across Software & Hardware.** <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+🤖 Currently honing my skills in Python for AI algorithms, TensorFlow for deep learning models, and ROS for robotics applications. <br/>
+💻 Experienced in full-stack development with proficiency in HTML/CSS, JavaScript, and Node.js for creating responsive web applications and APIs. <br/>
+📚 Actively learning advanced topics in computer vision and reinforcement learning to enhance AI capabilities in autonomous systems. <br/>
+# 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/> 
+🌟 Let's connect and collaborate on cutting-edge AI and robotics projects! Explore my GitHub repositories & expertise below.
+
+[![My Skills](https://skillicons.dev/icons?i= Python, R, C/C++, C#, SQL, Java, JavaScript, HTML, CSS, Swift &theme=light)](https://skillicons.dev)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
