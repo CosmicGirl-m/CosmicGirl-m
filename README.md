@@ -8,17 +8,16 @@
 </h1>
 
 <!-- Small Bio --> 
-**👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across various domains.** <br/>
+**👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across Software & Hardware.** <br/>
 
-# Take a look at my expertise:
-🧠 Machine Learning and AI: Python, R, C++, Java, TensorFlow, PyTorch, Keras for Deep Learning; Natural Language Processing, Computer Vision, Data Science.
-🖥️ Quantum Computing: Algorithm development, data structures, complexity theory, quantum algorithms. 
-📊 Data Science and Analytics: Hadoop, Spark for Big Data; R, SAS for statistical analysis; Tableau, D3.js for data visualization.
-☁️ Cloud Computing: AWS, Google Cloud, Azure for scalable architectures; CI/CD pipelines, Docker, Kubernetes for DevOps.
-💻 Full-Stack Development: Front-End Development, Back-End Development, Databases, Version Control, DevOps.
-🎨 Additional Skills: Blender (3D Modelling & Animation Rendering); C# (Unity, game development); ROS (Robot Operating System).
+**Take a look at my expertise:**
+🧠 Machine Learning and AI: Python, R, C++, TensorFlow, PyTorch, Keras for Deep Learning; Natural Language Processing, Computer Vision. <br/>
+📊 Data Science and Analytics: Hadoop, Spark for Big Data; R for statistical analysis; Tableau for data visualization. <br/>
+☁️ Cloud Computing: AWS, Google Cloud, Azure for scalable architectures; CI/CD pipelines, Docker, Kubernetes for DevOps. <br>
+💻 Full-Stack Development: HTML/CSS, JavaScript, Node.js for responsive web applications and APIs. <br/>
+🎨 Additional Skills: Blender (3d Modelling & Animation Rendering), ROS (Robot Operating System), C# (Unity, game development). <br/>
+🌟 Interests: Humanoid Technology, Building and Programming Robots, User Interfaces, Reading Philosophical & Psychological books. <br/> 
 
-🌟 Interests: 3D modeling, full-stack web/app development, game development, Humanoid Technology, Robotics Hardware & Programming. 
 🔍 Career Objective: Seeking roles in AI research or software development to contribute to innovative projects in AI and robotics
 
  </div>
