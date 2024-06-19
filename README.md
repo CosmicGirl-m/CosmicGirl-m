@@ -10,23 +10,25 @@
 <!-- Small Bio --> 
 **👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across Software & Hardware.** <br/>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your_username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+---
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left">
-  <a href="https://twitter.com/your_twitter_handle" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
-  </a>
-</p>
 
-- 🔭 I’m currently working on **Your Project Name**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+
+<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+
+- 🔭 I’m currently working on **Vexa Web App**
+
 - 🌱 I’m currently learning **DevOps**
-- 💬 Ask me about **Android, MEARN**
-- 📫 How to reach me: **your_email@example.com**
-- ⚡ Fun fact: **I am Funny**
 
- </div>
+- 💬 Ask me about **Android , MEARN**
+
+- 📫 How to reach me **rishavchanda0@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+---
+
  
 <div align="center"> 
   <a href="mailto:pedro.sales.muniz@gmail.com">
