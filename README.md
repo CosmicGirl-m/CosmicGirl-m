@@ -4,33 +4,27 @@
 
 <!-- Heading with inline CSS -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&color=000000&lines=Hi+There!+I'm+Maryam🪐;Welcome+to+my+GitHub." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&color=000000&lines=Hi+There!+I'm+Maryam✨🪐;Welcome+to+my+GitHub." />
 </h1>
 
 <!-- Small Bio --> 
 **👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across Software & Hardware.** <br/>
 
-<div style="overflow: hidden; clear: both;">
-  <div style="float: left; width: 70%;">
-    🧠 **Machine Learning and AI:** Python, R, C++, TensorFlow, PyTorch, Keras for Deep Learning; Natural Language Processing, Computer Vision.  
-    <br/>
-    📊 **Data Science and Analytics:** Hadoop, Spark for Big Data; R for statistical analysis; Tableau for data visualization.  
-    <br/>
-    ☁️ **Cloud Computing:** AWS, Google Cloud, Azure for scalable architectures; CI/CD pipelines, Docker, Kubernetes for DevOps.  
-    <br/>
-    💻 **Full-Stack Development:** HTML/CSS, JavaScript, Node.js for responsive web applications and APIs.  
-    <br/>
-    🎨 **Additional Skills:** Blender (3D Modelling & Animation Rendering), ROS (Robot Operating System), C# (Unity, game development).  
-    <br/>
-    🌟 **Interests:** Humanoid Technology, Building and Programming Robots, User Interfaces, Reading Philosophical & Psychological books.  
-    <br/>
-    🔍 **Career Objective:** Seeking roles in AI research or software development to contribute to innovative projects in AI and robotics.
-  </div>
-  <div style="float: right; width: 30%;">
-    <img src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/452bb491-cd0f-4bdd-8f80-3d4ceee36aea" alt="download" style="width: 100%; border-radius: 8px;">
-  </div>
-</div>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your_username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+<p align="left">
+  <a href="https://twitter.com/your_twitter_handle" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/your_twitter_handle?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+</p>
+
+- 🔭 I’m currently working on **Your Project Name**
+- 🌱 I’m currently learning **DevOps**
+- 💬 Ask me about **Android, MEARN**
+- 📫 How to reach me: **your_email@example.com**
+- ⚡ Fun fact: **I am Funny**
 
  </div>
  
