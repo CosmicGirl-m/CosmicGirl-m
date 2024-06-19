@@ -8,8 +8,8 @@
 </h1>
 
 <!-- Small Bio --> 
-👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across various domains.
-<br/>
+**👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across various domains.
+** <br/>
 
 # Take a look at my expertise:
 🧠 Machine Learning and AI: Python, R, C++, Java, TensorFlow, PyTorch, Keras for Deep Learning; Natural Language Processing, Computer Vision, Data Science.
