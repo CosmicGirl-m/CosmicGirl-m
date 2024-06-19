@@ -1,5 +1,5 @@
 <!-- Visitor badge with inline CSS -->
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CosmicGirl-m.CosmicGirl-m" style="filter: invert(85%);">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=CosmicGirl-m.CosmicGirl-m" >
 
 <!-- Heading with inline CSS -->
 <h1 align="center" style="color: black;">
