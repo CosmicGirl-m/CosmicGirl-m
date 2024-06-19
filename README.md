@@ -7,10 +7,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&color=000000&lines=Hi+There!+I'm+Maryam🪐;Welcome+to+my+GitHub." />
 </h1>
 
-👋 Greetings! I'm Maryam, an aspiring Software & AI Engineer currently pursuing an Honours BCS at the University of Ottawa, specializing in Artificial Intelligence & Machine Learning.
+# 👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across various domains.
 <br/>
 
-## Take a look at my expertise:
+# Take a look at my expertise:
 🧠 Machine Learning and AI: Python, R, C++, Java, TensorFlow, PyTorch, Keras for Deep Learning; Natural Language Processing, Computer Vision, Data Science.
 🖥️ Quantum Computing: Algorithm development, data structures, complexity theory, quantum algorithms. 
 📊 Data Science and Analytics: Hadoop, Spark for Big Data; R, SAS for statistical analysis; Tableau, D3.js for data visualization.
