@@ -7,7 +7,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&color=000000&lines=Hi+There!+I'm+Maryam🪐;Welcome+to+my+GitHub." />
 </h1>
 
-# 👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across various domains.
+<!-- Small Bio --> 
+👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across various domains.
 <br/>
 
 # Take a look at my expertise:
