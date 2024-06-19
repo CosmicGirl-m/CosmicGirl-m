@@ -15,7 +15,13 @@
 📚 Actively learning advanced topics in computer vision and reinforcement learning to enhance AI capabilities in autonomous systems. <br/>
 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/> 
 🌟 Let's connect and collaborate on cutting-edge AI and robotics projects! Explore my GitHub repositories & expertise below.
+- 👨‍💻 All of my projects are available at [portfolio](portfolio)
 
+- 💬 Ask me about **Gaming Physics, Quantum Physics & Humanoids**
+
+- 📫 How to reach me **maryamsindhu.work@gmail.com**
+
+- 📄 Know about my experiences [resume](resume)
 
 
  <hr/>
