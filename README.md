@@ -8,23 +8,12 @@
 </h1>
 
 <!-- Small Bio --> 
-**👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across Software & Hardware.** <br/>
+**👋 I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in Artificial Intelligence & Machine Learning, with diverse expertise across various domains** <br/>
 
-🤖 Currently honing my skills in Python for AI algorithms, TensorFlow for deep learning models, and ROS for robotics applications. <br/>
-💻 Experienced in full-stack development with proficiency in HTML/CSS, JavaScript, and Node.js for creating responsive web applications and APIs. <br/>
-📚 Actively learning advanced topics in computer vision and reinforcement learning to enhance AI capabilities in autonomous systems. <br/>
-🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/> 
-🌟 Let's connect and collaborate on cutting-edge AI and robotics projects! Explore my GitHub repositories & expertise below.
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
-
-- 💬 Ask me about **Gaming Physics, Quantum Physics & Humanoids**
-
-- 📫 How to reach me **maryamsindhu.work@gmail.com**
-
-- 📄 Know about my experiences [resume](resume)
-
-# 💫 About Me:
-<br><br>AI engineer passionate about blending AI, robotics, and full-stack development to innovate and solve real-world challenges.<br><br>🤖 Currently honing my skills in Python for AI algorithms, TensorFlow for deep learning models, and ROS for robotics applications.<br><br>💻 Experienced in full-stack development with proficiency in HTML/CSS, JavaScript, and Node.js for creating responsive web applications and APIs.<br><br>📚 Actively learning advanced topics in computer vision and reinforcement learning to enhance AI capabilities in autonomous systems.<br><br>🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to groundbreaking projects.<br><br>🌟 Let's connect and collaborate on cutting-edge AI and robotics projects! Explore my GitHub repositories below.<br><br>
+🤖 Currently I'm expanding my Algorithms Devleoping skills using Python, TensorFlow for deep learning models, and ROS for robotics applications. Futhermore, I'm actively learning advanced topics in computer vision and reinforcement learning to enhance AI capabilities in Robotics and Humanoid Technology. <br/>
+🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/>
+🌟 Let's connect and collaborate on cutting-edge AI and innovative projects! Reach me at **maryamsindhu.work@gmail.com**. <br/>
+📄 Take a look at my professioanl experience: [resume](resume) | Explore my GitHub repositories & expertise below.
 
 
 ## 🌐 Socials:
