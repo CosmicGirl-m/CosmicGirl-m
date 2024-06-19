@@ -11,22 +11,18 @@
 
 <div align="left">
 
-👋 Greetings! I'm Maryam, an aspiring Software & AI Engineer currently pursuing an Honours BCS at the University of Ottawa CA, specializing in Artificial Intelligence & Machine Learning.
+#👋 Greetings! I'm Maryam, an aspiring Software & AI Engineer currently pursuing an Honours BCS at the University of Ottawa, specializing in Artificial Intelligence & Machine Learning.
 
-My Expertise include the following: 
-🧠 Machine Learning and AI: TensorFlow, PyTorch, Keras for Deep Learning; Natural Language Processing, Computer Vision.
-🖥️ Quantum Computing: Algorithm development; Programming in Qiskit, Microsoft Q#.
+## Take a look at my expertise:
+🧠 Machine Learning and AI: Python, R, C++, Java, TensorFlow, PyTorch, Keras for Deep Learning; Natural Language Processing, Computer Vision, Data Science.
+🖥️ Quantum Computing: Algorithm development, data structures, complexity theory, quantum algorithms. 
 📊 Data Science and Analytics: Hadoop, Spark for Big Data; R, SAS for statistical analysis; Tableau, D3.js for data visualization.
 ☁️ Cloud Computing: AWS, Google Cloud, Azure for scalable architectures; CI/CD pipelines, Docker, Kubernetes for DevOps.
-🎨 Additional Skills: Python (AI algorithms), C# (Unity, game development); ROS (Robot Operating System).
+💻 Full-Stack Development: Front-End Development, Back-End Development, Databases, Version Control, DevOps.
+🎨 Additional Skills: Blender (3D Modelling & Animation Rendering); C# (Unity, game development); ROS (Robot Operating System).
 
 🌟 Interests: 3D modeling, full-stack web/app development, game development, Humanoid Technology, Robotics Hardware & Programming. 
 🔍 Career Objective: Seeking roles in AI research or software development to contribute to innovative projects in AI and robotics
-
-
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
  </div>
  
