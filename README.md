@@ -6,7 +6,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&color=000000&lines=Hi+There!+I'm+Maryam;Welcome+to+my+GitHub." />
 </h1>
-<br/>
+
 👋 Greetings! I'm Maryam, an aspiring Software & AI Engineer currently pursuing an Honours BCS at the University of Ottawa, specializing in Artificial Intelligence & Machine Learning.
 <br/>
 
