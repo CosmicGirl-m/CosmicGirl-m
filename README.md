@@ -11,7 +11,9 @@
 
 <div align="left">
 
-#👋 Greetings! I'm Maryam, an aspiring Software & AI Engineer currently pursuing an Honours BCS at the University of Ottawa, specializing in Artificial Intelligence & Machine Learning.
+
+##👋 Greetings! I'm Maryam, an aspiring Software & AI Engineer currently pursuing an Honours BCS at the University of Ottawa, specializing in Artificial Intelligence & Machine Learning.
+<br/>
 
 ## Take a look at my expertise:
 🧠 Machine Learning and AI: Python, R, C++, Java, TensorFlow, PyTorch, Keras for Deep Learning; Natural Language Processing, Computer Vision, Data Science.
