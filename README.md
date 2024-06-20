@@ -75,10 +75,9 @@
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 ## Statistics: 
-<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicgirl-m&show_icons=true&locale=en&layout=compact" alt="cosmicgirl-m" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cosmicgirl-m&show_icons=true&locale=en" alt="cosmicgirl-m" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cosmicgirl-m&show_icons=true&locale=en" alt="cosmicgirl-m" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmicgirl-m&" alt="cosmicgirl-m" /></p>
 
