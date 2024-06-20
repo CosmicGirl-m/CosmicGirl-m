@@ -21,14 +21,16 @@
 
 
 <!-- Small Bio --> 
-## A bit about me:
-- ⭐ I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in AI/ML & Data Science. 
-- 🌱 I’m currently honing my skills in AI Algorithm Development, TensorFlow for deep learning models, and ROS for robotics applications.
+## A bit about me <3
+- ⭐ I'm an aspiring **AI Engineer** pursuing an **Honours BCS at uOttawa, specializing in AI/ML & Data Science**. 
+- 🌱 I’m currently honing my skills in **AI Algorithm Development**, **TensorFlow for deep learning models**, and **ROS** for robotics applications.
 - 💻 Check out my work: [Portfolio.](portfolio)
 - 💬 Let's chat about Game Design Physics, Quantum Physics, VR/AR, Machine Learning & Humanoid Technology. Reach me: [Gmail.](maryamsindhu.work@gmail.com)
 - 📄 I would love to collaborate! Check out my professional experience (in-depth) here: [Resume.](resume)
 - 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/>
-💫 Let's Connect!
+<br/>
+
+## Let's Connect! 🤝
 [🔵Linkedin](https://www.linkedin.com/in/maryam-sindhu-652673301/) | 
 [🟡Behance](https://www.behance.net/maryamsindhu) | 
 [🔴Dribble](https://dribbble.com/maryamk99)
