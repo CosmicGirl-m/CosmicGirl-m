@@ -17,7 +17,8 @@
 </h1>
 
 <!-- Gif Image --> 
-<img align="right" alt="Coding" width="300" src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/3c1c6dbc-671c-42e3-91d9-44e3829b7e13">
+<img align="right" alt="Coding" width="300" src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/30d413bb-ddfe-4c73-8eba-b0c7a35bae88">
+
 
 <!-- Small Bio --> 
 🔊 I'm mostly interested 
@@ -25,6 +26,16 @@
 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/>
 
 💫 Let's Connect!
+LinkedIn: 
+- 🌱 I’m currently learning **🤖 Currently honing my skills in Python for AI algorithms, TensorFlow for deep learning models, and ROS for robotics applications.**
+
+- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+
+- 💬 Ask me about **Gaming Physics, Quantum Physics & Humanoids**
+
+- 📫 How to reach me **maryamsindhu.work@gmail.com**
+
+- 📄 Know about my experiences [resume](resume)
 
 
 
