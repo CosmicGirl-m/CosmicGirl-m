@@ -73,6 +73,8 @@
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-%231488AE.svg?style=for-the-badge&logo=opensearch&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-%2377D0CD.svg?style=for-the-badge&logo=swift&logoColor=white)
 
 ## Statistics: 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicgirl-m&show_icons=true&locale=en&layout=compact" alt="cosmicgirl-m" /></p>
