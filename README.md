@@ -1,9 +1,3 @@
-<!-- Header Image --> 
-align= center ![pixelcut-export (2)](https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/d052a6de-babd-4e28-9c7e-21a62601f201)
-
-
-
-
 
 <!-- Header with Swapping and Typing Text -->
 <!-- Visitor badge with inline CSS -->
