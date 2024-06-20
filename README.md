@@ -1,5 +1,12 @@
 <!-- Header with Swapping and Typing Text -->
 <!-- Visitor badge with inline CSS -->
+<div style="text-align: right;">
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=12" alt="Visit Count">
+    </a>
+</div>
+
+
 <p align="right"> [![](https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=12)](https://visitcount.itsvg.in)
 
     <img src="https://komarev.com/ghpvc/?username=CosmicGirl-m&label=Profile%20views&color=0e75b6&style=flat" alt="CosmicGirl-m" /> </p>
