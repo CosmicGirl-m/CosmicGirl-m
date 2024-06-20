@@ -1,6 +1,8 @@
 <!-- Header with Swapping and Typing Text -->
 <!-- Visitor badge with inline CSS -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=CosmicGirl-m&label=Profile%20views&color=0e75b6&style=flat" alt="CosmicGirl-m" /> </p>
+<p align="right"> [![](https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=12)](https://visitcount.itsvg.in)
+
+    <img src="https://komarev.com/ghpvc/?username=CosmicGirl-m&label=Profile%20views&color=0e75b6&style=flat" alt="CosmicGirl-m" /> </p>
 
 <!-- Heading with inline CSS -->
 <h1 align="center">
@@ -28,8 +30,6 @@ I'm an aspiring AI Engineer pursuing an Honours BCS at uOttawa, specializing in 
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!-- Small Bio --> 
