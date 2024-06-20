@@ -21,26 +21,20 @@
 
 
 <!-- Small Bio --> 
-🔊 I'm mostly interested 
-🤖Currently, I'm expanding my algorithm developing skills using Python, TensorFlow for deep learning models, and ROS for robotics applications. Furthermore, I'm actively learning advanced topics in computer vision and reinforcement learning to enhance AI capabilities in robotics and humanoid technology. <br/> 
-🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/>
-
+## A bit about me:
 💫 Let's Connect!
-LinkedIn: 
-- 🌱 I’m currently learning **🤖 Currently honing my skills in Python for AI algorithms, TensorFlow for deep learning models, and ROS for robotics applications.**
+[🔵Linkedin](https://www.linkedin.com/in/maryam-sindhu-652673301/) | 
+[🟡Behance](https://www.behance.net/maryamsindhu) | 
+[🔴Dribble](https://dribbble.com/maryamk99)
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 🌱 I’m currently honing my skills in AI Algorithm Development, TensorFlow for deep learning models, and ROS for robotics applications.
+- 💻 Check out my work: [Portfolio.](portfolio)
+- 💬 Let's chat about Game Design Physics, Quantum Physics, VR/AR, Machine Learning & Humanoid Technology. Reach me: [Gmail.](maryamsindhu.work@gmail.com)
+- 📄 I would love to collaborate! Check out my professional experience (in-depth) here: [Resume.](resume)
+- 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/>
 
-- 💬 Ask me about **Gaming Physics, Quantum Physics & Humanoids**
-
-- 📫 How to reach me **maryamsindhu.work@gmail.com**
-
-- 📄 Know about my experiences [resume](resume)
-
-
-
-## 💻 **Take a look at my technical expertise:** <br/>
-## Machine Learning (Languages
+ ## **⌨️ Take a look at my technical expertise** <br/>
+### Machine Learning (Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
