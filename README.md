@@ -18,7 +18,7 @@
 </h1>
 
 <!-- Gif Image --> 
-<img align="right" alt="Coding" width="400" src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/3c1c6dbc-671c-42e3-91d9-44e3829b7e13">
+<img align="right" alt="Coding" width="300" src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/3c1c6dbc-671c-42e3-91d9-44e3829b7e13">
 
 <!-- Small Bio --> 
 🔊 I'm mostly interested 
