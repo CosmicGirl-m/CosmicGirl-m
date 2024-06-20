@@ -1,6 +1,6 @@
 <!-- Header with Swapping and Typing Text -->
 <!-- Visitor badge with inline CSS -->
-<div style="text-align: right;">
+<div align= right ;">
     <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=12" alt="Visit Count">
     </a>
