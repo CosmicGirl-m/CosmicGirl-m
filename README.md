@@ -28,15 +28,15 @@
 - 💬 Let's chat about Game Design Physics, Quantum Physics, VR/AR, Machine Learning & Humanoid Technology. Reach me: [Gmail.](maryamsindhu.work@gmail.com)
 - 📄 I would love to collaborate! Check out my professional experience (in-depth) here: [Resume.](resume)
 - 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/>
-<br/>
 
 ## Let's Connect! 🤝
 [🔵Linkedin](https://www.linkedin.com/in/maryam-sindhu-652673301/) | 
 [🟡Behance](https://www.behance.net/maryamsindhu) | 
-[🔴Dribble](https://dribbble.com/maryamk99)
+[🔴Dribble](https://dribbble.com/maryamk99) <br/> 
+
 
  ## **⌨️ Take a look at my technical expertise** <br/>
-### Machine Learning (Languages
+**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
