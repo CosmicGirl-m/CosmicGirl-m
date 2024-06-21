@@ -6,7 +6,7 @@
 <!-- Visitor badge with inline CSS -->
 <div align= right ;">
     <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=12" alt="Visit Count">
+        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=10" alt="Visit Count">
         <br/>
     </a>
 </div>
@@ -27,15 +27,23 @@
 - 💻 Check out my work: [Portfolio.](portfolio)
 - 💬 Let's chat about Game Design Physics, Quantum Physics, VR/AR, Machine Learning & Humanoid Technology. Reach me: 📧 maryamsindhu.work@gmail.com
 - 📄 I would love to collaborate! Check out my professional experience (in-depth) here: [Resume.](resume)
-- 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/>
+- 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/> <br/>
 
-## Let's Connect! 🤝
+<div align="center">
+  <h2>Let's Connect! 🤝</h2>
+</div>
+
 [🔵Linkedin](https://www.linkedin.com/in/maryam-sindhu-652673301/) | 
 [🟡Behance](https://www.behance.net/maryamsindhu) | 
 [🔴Dribble](https://dribbble.com/maryamk99) <br/> 
 
 
- ## **⌨️ Take a look at my technical expertise** <br/>
+<br/> 
+
+<div align="center">
+  <h2>⌨️ Take a look at my technical expertise</h2>
+</div>
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -80,19 +88,15 @@
 
 
 ## Statistics: 
-![CosmicGirl's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmicGirl-m&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=000000&bg_color=ffffff)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CosmicGirl-m&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=000000&bg_color=ffffff" alt="CosmicGirl's GitHub stats"> <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicGirl-m&layout=compact&title_color=ff69b4&text_color=000000&bg_color=ffffff" alt="Top Languages"> <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=CosmicGirl-m&background=ffffff&ring=ff69b4&fire=ff69b4&currStreakNum=000000&sideNums=000000&currStreakLabel=ff69b4&sideLabels=000000&dates=000000" alt="GitHub Streak">
+  </a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CosmicGirl-m&theme=flat&no-bg=true&no-frame=true&title_color=ff69b4&text_color=000000" alt="Trophy">
+  </a>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)
-[![Maryam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)](https://wakatime.com/@yourusername)
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicgirl-m&show_icons=true&locale=en&layout=compact" alt="cosmicgirl-m" /></p>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cosmicgirl-m&show_icons=true&locale=en" alt="cosmicgirl-m" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cosmicgirl-m&" alt="cosmicgirl-m" /></p>
 
