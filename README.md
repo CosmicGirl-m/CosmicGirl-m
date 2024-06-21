@@ -80,6 +80,16 @@
 
 
 ## Statistics: 
+![CosmicGirl's GitHub stats](https://github-readme-stats.vercel.app/api?username=CosmicGirl-m&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=000000&bg_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Maryam's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=yourusername)](https://wakatime.com/@yourusername)
+![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicgirl-m&show_icons=true&locale=en&layout=compact" alt="cosmicgirl-m" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=cosmicgirl-m&show_icons=true&locale=en" alt="cosmicgirl-m" /></p>
