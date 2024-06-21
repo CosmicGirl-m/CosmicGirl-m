@@ -6,10 +6,11 @@
 <!-- Visitor badge with inline CSS -->
 <div align="right">
     <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=000000" alt="Visit Count">
+        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=ffffff" alt="Visit Count">
         <br/>
     </a>
 </div>
+
 
 <!-- Interactive Intro -->
 <h1 align="center">
@@ -26,7 +27,7 @@
 - 🌱 I’m currently honing my skills in **AI Algorithm Development**, **TensorFlow for deep learning models**, and **ROS** for robotics applications.
 - 💻 Check out my work: [Portfolio.](portfolio)
 - 💬 Let's chat about Game Design Physics, Quantum Physics, VR/AR, Machine Learning & Humanoid Technology. Reach me: 📧 maryamsindhu.work@gmail.com
-- 📄 I would love to collaborate! Check out my professional experience (in-depth) here: [Resume.](resume)
+- 📄 I would love to collaborate! Check out my professional experience (in-depth) here: [Resume.](https://docs.google.com/document/d/1WmeoUu89GD9Kpk_fJvjlAT0gCTs-G12FtEk7bFzAJwE/edit?usp=sharing)
 - 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/> <br/>
 
 <div align="left">
