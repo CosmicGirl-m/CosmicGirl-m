@@ -6,7 +6,7 @@
 <!-- Visitor badge with inline CSS -->
 <div align= right ;">
     <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=10" alt="Visit Count">
+        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=79" alt="Visit Count">
         <br/>
     </a>
 </div>
@@ -29,7 +29,7 @@
 - 📄 I would love to collaborate! Check out my professional experience (in-depth) here: [Resume.](resume)
 - 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/> <br/>
 
-<div align="center">
+<div align="left">
   <h2>Let's Connect! 🤝</h2>
 </div>
 
@@ -40,7 +40,7 @@
 
 <br/> 
 
-<div align="center">
+<div align="left">
   <h2>⌨️ Take a look at my technical expertise</h2>
 </div>
 
@@ -87,7 +87,7 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 
-## Statistics: 
+## ⚡Statistics: 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CosmicGirl-m&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=000000&bg_color=ffffff" alt="CosmicGirl's GitHub stats"> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicGirl-m&layout=compact&title_color=ff69b4&text_color=000000&bg_color=ffffff" alt="Top Languages"> <br/>
