@@ -76,6 +76,8 @@
 ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-%2377D0CD.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-%234DB33D.svg?style=for-the-badge&logo=nosql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 
 ## Statistics: 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cosmicgirl-m&show_icons=true&locale=en&layout=compact" alt="cosmicgirl-m" /></p>
