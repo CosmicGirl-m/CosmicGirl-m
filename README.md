@@ -4,9 +4,9 @@
 
 <!-- Header with Swapping and Typing Text -->
 <!-- Visitor badge with inline CSS -->
-<div align= right ;">
+<div align="right">
     <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=79" alt="Visit Count">
+        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=000000" alt="Visit Count">
         <br/>
     </a>
 </div>
