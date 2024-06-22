@@ -35,14 +35,9 @@
 
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/maryamsindhu)
 [![X.com](https://img.shields.io/badge/X.com-12100E?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m_k_90077)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/following)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/maryamk99)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sindhu-652673301/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maryamks897)
-
-[🔵Linkedin](https://www.linkedin.com/in/maryam-sindhu-652673301/) | 
-[🟡Behance](https://www.behance.net/maryamsindhu) | 
-[🔴Dribble](https://dribbble.com/maryamk99) <br/> 
-
 
 <br/> 
 
