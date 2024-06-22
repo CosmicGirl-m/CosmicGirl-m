@@ -6,11 +6,10 @@
 <!-- Visitor badge with inline CSS -->
 <div align="right">
     <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&icon=1&color=ffffff" alt="Visit Count">
+        <img src="https://visitcount.itsvg.in/api?id=CosmicGirl-m&label=Profile%20Views&color=12&icon=0&pretty=true" />
         <br/>
     </a>
 </div>
-
 
 <!-- Interactive Intro -->
 <h1 align="center">
@@ -33,6 +32,12 @@
 <div align="left">
   <h2>Let's Connect! 🤝</h2>
 </div>
+
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/maryamsindhu)
+[![X.com](https://img.shields.io/badge/X.com-12100E?style=for-the-badge&logo=x&logoColor=white)](https://x.com/m_k_90077)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/following)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sindhu-652673301/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maryamks897)
 
 [🔵Linkedin](https://www.linkedin.com/in/maryam-sindhu-652673301/) | 
 [🟡Behance](https://www.behance.net/maryamsindhu) | 
