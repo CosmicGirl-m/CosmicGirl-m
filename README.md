@@ -13,7 +13,7 @@
 
 <!-- Interactive Intro -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Maryam✨🌷🪐;+Welcome+to+my+GitHub.;&color=000000" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Maryam+✦;+Welcome+to+my+GitHub.;&color=000000" />
 </h1>
 
 <!-- Gif Image --> 
@@ -21,12 +21,11 @@
 
 
 <!-- A little about me section --> 
-- ⭐ I'm an aspiring **AI Engineer** pursuing an **Honours BCS at uOttawa, specializing in AI/ML & Data Science**. 
-- 🌱 I’m currently honing my skills in **AI Algorithm Development**, **TensorFlow for deep learning models**, and **ROS** for robotics applications.
-- 💻 Check out my work: [Portfolio.](portfolio)
-- 💬 Let's chat about Game Design Physics, Quantum Physics, VR/AR, Machine Learning & Humanoid Technology. Reach me: 📧 maryamsindhu.work@gmail.com
-- 📄 I would love to collaborate! Check out my professional experience (in-depth) here: [Resume.](https://docs.google.com/document/d/1WmeoUu89GD9Kpk_fJvjlAT0gCTs-G12FtEk7bFzAJwE/edit?usp=sharing)
-- 🔍 Seeking an internship in AI research or software development, where I can apply my skills in machine learning and robotics to contribute to innovative projects. <br/> <br/>
+➜ I'm an Aspiring **AI Engineer** currently pursuing an **Honours BCS at the University of Ottawa** specializing in **AI/ML & Data Science**. 💬 Let's chat about Game Design Physics, Quantum Physics, VR/AR, Machine Learning & Humanoid Technology. Reach me: 📧 maryamsindhu.work@gmail.com
+
+🔍 I am actively seeking an internship in **AI, Research, Full-Stack Development and Robotic Programming** to contribute my expertise to ground-breaking and innovative projects that solve real-world problems. 
+
+💻 **Interested in my Professional Experience? CHECK OUT: [Resume](resume) | [Portfolio](portfolio)**
 
 <div align="left">
   <h2>Let's Connect! 🤝</h2>
