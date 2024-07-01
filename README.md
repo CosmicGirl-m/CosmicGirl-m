@@ -27,7 +27,7 @@
 
 🔍 I am actively seeking an internship in **AI, Research, Full-Stack Development and Robotic Programming** to contribute my expertise to ground-breaking and innovative projects that solve real-world problems. 
 
-💻 **Interested in my Professional Experience? [Resume](Resume-in-progress) | [Portfolio](Portfolio-in-progress)**
+💻 **Interested in my Professional Experience?  [Resume](Resume-in-progress) | [Portfolio](Portfolio-in-progress)**
 
 ## **Let's Connect! 🤝**<br/>
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/maryamsindhu)
