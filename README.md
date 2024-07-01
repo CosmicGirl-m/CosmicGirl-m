@@ -21,11 +21,13 @@
 
 
 <!-- A little about me section --> 
-➜ I'm an Aspiring **AI Engineer** currently pursuing an **Honours BCS at the University of Ottawa** specializing in **AI/ML & Data Science**. 💬 Let's chat about Game Design Physics, Quantum Physics, VR/AR, Machine Learning & Humanoid Technology. Reach me: 📧 maryamsindhu.work@gmail.com
+➜ I'm an Aspiring **AI Engineer** currently pursuing an **Honours BCS at the University of Ottawa** specializing in **AI/ML & Data Science**. 
+
+💬 Let's chat about **Game Design Physics, Quantum Physics, VR/AR, Machine Learning & Humanoid Technology. Reach me: 📧 maryamsindhu.work@gmail.com**
 
 🔍 I am actively seeking an internship in **AI, Research, Full-Stack Development and Robotic Programming** to contribute my expertise to ground-breaking and innovative projects that solve real-world problems. 
 
-💻 **Interested in my Professional Experience? CHECK OUT: [Resume](resume) | [Portfolio](portfolio)**
+💻 **Interested in my Professional Experience? [Resume](Resume-in-progress) | [Portfolio](Portfolio-in-progress)**
 
 <div align="left">
   <h2>Let's Connect! 🤝</h2>
@@ -39,8 +41,12 @@
 
 <br/> 
 
+## Technical Expertise:
+# Technical Expertise:
+## Technical Expertise: 
+
 <div align="left">
-  <h2>⌨️ Take a look at my technical expertise</h2>
+  <h1>⌨️ Take a look at my technical expertise</h1>
 </div>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
