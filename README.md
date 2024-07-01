@@ -20,8 +20,7 @@
 <img align="right" alt="Coding" width="300" src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/30d413bb-ddfe-4c73-8eba-b0c7a35bae88">
 
 
-<!-- Small Bio --> 
-## A bit about me <3
+<!-- A little about me section --> 
 - ⭐ I'm an aspiring **AI Engineer** pursuing an **Honours BCS at uOttawa, specializing in AI/ML & Data Science**. 
 - 🌱 I’m currently honing my skills in **AI Algorithm Development**, **TensorFlow for deep learning models**, and **ROS** for robotics applications.
 - 💻 Check out my work: [Portfolio.](portfolio)
