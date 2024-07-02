@@ -30,11 +30,11 @@
 💻 **Interested in my Professional Experience? <br/> [Resume](Resume-in-progress) | [Portfolio](Portfolio-in-progress)**
 
 ## **Let's Connect! 🤝**<br/>
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/maryamsindhu)
-[![X.com](https://img.shields.io/badge/X.com-12100E?style=for-the-badge&logo=x&logoColor=white)](https://x.com/CosmicGirl_m)
-[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/maryamk99)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sindhu-652673301/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@maryamks897)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/maryamsindhu)
+[![X.com](https://img.shields.io/badge/X.com-12100E?style=flat&logo=x&logoColor=white)](https://x.com/CosmicGirl_m)
+[![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/maryamk99)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-sindhu-652673301/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@maryamks897)
 
 ## ➜ My Tech Stack:
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
