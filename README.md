@@ -1,6 +1,6 @@
 <!-- Name: Maryam Sindhu -->
-<!-- Date: 19-06-2024 --> 
-<!-- Tech Used: HTML (Language), MarkDown (Language) --> 
+<!-- Date: 19-06-2024 -->
+<!-- Tech Used: HTML (Language), MarkDown (Language) -->
 
 <!-- Header with Swapping and Typing Text -->
 <!-- Visitor badge with inline CSS -->
@@ -16,20 +16,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+I'm+Maryam+✦;+Welcome+to+my+GitHub.;&color=000000" />
 </h1>
 
-<!-- Gif Image --> 
+<!-- Gif Image -->
 <img align="right" alt="Coding" width="300" src="https://github.com/CosmicGirl-m/CosmicGirl-m/assets/131784143/30d413bb-ddfe-4c73-8eba-b0c7a35bae88">
 
+<!-- A little about me section -->
 
-<!-- A little about me section --> 
-➜ I'm an Aspiring **AI Engineer** currently pursuing an **Honours BCS at the University of Ottawa** specializing in **AI/ML & Data Science**. 
+➜ I'm an Aspiring **AI Engineer** currently pursuing an **Honours BCS at the University of Ottawa** specializing in **AI/ML & Data Science**.
 
 💬 Let's chat about **Game Design Physics, Quantum Physics, 3D-Design, VR/AR, Machine Learning & Humanoid Technology. Reach me: 📧 maryamsindhu.work@gmail.com**
 
-🔍 I am actively seeking an internship in **AI, Research, Full-Stack Development and Robotic Programming** to contribute my expertise to ground-breaking and innovative projects that solve real-world problems. 
+🔍 I am actively seeking an internship in **AI, Research, Full-Stack Development and Robotic Programming** to contribute my expertise to ground-breaking and innovative projects that solve real-world problems.
 
 💻 **Interested in my Professional Experience? <br/> [Resume](Resume-in-progress) | [Portfolio](Portfolio-in-progress)**
 
 ## **Let's Connect! 🤝**<br/>
+
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/maryamsindhu)
 [![X.com](https://img.shields.io/badge/X.com-12100E?style=flat&logo=x&logoColor=white)](https://x.com/CosmicGirl_m)
 [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white)](https://dribbble.com/maryamk99)
@@ -37,6 +38,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@maryamks897)
 
 ## ➜ My Tech Stack:
+
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -79,7 +81,8 @@
 ![ROS](https://img.shields.io/badge/ROS-%23409FFF?style=flat-square&logo=ros&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-## ⚡Statistics: 
+## ⚡Statistics:
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CosmicGirl-m&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=000000&bg_color=ffffff" alt="CosmicGirl's GitHub stats"> <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicGirl-m&layout=compact&title_color=ff69b4&text_color=000000&bg_color=ffffff" alt="Top Languages"> <br/>
@@ -91,4 +94,4 @@
   </a>
 </div>
 
-
+## hey this is a check
